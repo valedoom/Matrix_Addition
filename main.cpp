@@ -4,7 +4,7 @@ using namespace std;
 
 //will add two matrices of random sizes and print the results
 int main() {
-    double A[100][100], B[100][100]; //these are empty matrices taht can store information
+    double A[100][100], B[100][100]; //these are empty matrices that store information
     long n1,n2, m1,m2;
 
     cout << "Enter the number of rows for the first matrix: ";
